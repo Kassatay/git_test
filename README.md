@@ -1,0 +1,1 @@
+This is Emine's first git project
